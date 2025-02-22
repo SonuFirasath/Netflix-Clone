@@ -33,9 +33,6 @@ To get a local copy of the project up and running, follow these steps:
 
 https://github.com/SonuFirasath/Netflix-Clone
 
-📊 Contribution Graph
-Sonu's github activity graph
-
 📫 How to reach me
 Email: sonufirasath201@gmail.com
 LinkedIn: https://www.linkedin.com/in/f-g-firasath-580568234/
