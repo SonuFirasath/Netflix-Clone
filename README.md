@@ -30,7 +30,7 @@ To get a local copy of the project up and running, follow these steps:
 ### Installation
 
 1. Clone the repository:
-   ```sh
+
 https://github.com/SonuFirasath/Netflix-Clone
 
 📊 Contribution Graph
