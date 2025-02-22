@@ -31,7 +31,7 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository:
    ```sh
-[   git clone https://github.com/SonuFirasath/Netflix-Clone.git](https://github.com/SonuFirasath/Netflix-Clone)
+https://github.com/SonuFirasath/Netflix-Clone
 
 📊 Contribution Graph
 Sonu's github activity graph
